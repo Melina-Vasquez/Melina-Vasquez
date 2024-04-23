@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Melina Vasquez</h1>
 <h3 align="center">Estudiante en Analista en Sistemas</h3>
 
-- 🔭 Estoy trabajando como **Productora de ventas**
+- 🔭 Estoy trabajando como **Analista Desarrolladora**
 
 - 👯Brindo soluciones en desarrollo de Sofware **para diferentes agencias**
 
